@@ -1,0 +1,42 @@
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.exe
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.deps.json
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.runtimeconfig.json
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.dll
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.pdb
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.AssemblyInfoInputs.cache
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.AssemblyInfo.cs
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.csproj.CoreCompileInputs.cache
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.dll
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\refint\SampleCallApi.dll
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.pdb
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.genruntimeconfig.cache
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\ref\SampleCallApi.dll
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.csproj.AssemblyReference.cache
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Sources\SampleCallApi\SampleCallApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Sources\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.csproj.CopyComplete
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.exe
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.deps.json
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.runtimeconfig.json
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\SampleCallApi.pdb
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.csproj.AssemblyReference.cache
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.AssemblyInfoInputs.cache
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.AssemblyInfo.cs
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.csproj.CoreCompileInputs.cache
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.csproj.CopyComplete
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\refint\SampleCallApi.dll
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.pdb
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\SampleCallApi.genruntimeconfig.cache
+C:\Users\483168\Documents\My Received Files\SampleCallApi\SampleCallApi\obj\Debug\net6.0\ref\SampleCallApi.dll
