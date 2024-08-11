@@ -41,7 +41,7 @@ namespace SampleCallApi
             List<Claim> claims = new List<Claim>
                     {
                         new Claim("user", username),
-                        new Claim("method", "Nonconformity")
+                        new Claim("method", "MonitoringList")
                     };
 
             //var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Convert.ToBase64String(Encoding.UTF8.GetBytes(password + password))));
