@@ -11,9 +11,9 @@ namespace SampleCallApi
 {
     internal class Program
     {
-        const string username = "aidcopress";//نام کاربری
-        const string password = "ap*1402@11@29";//کلمه عبور
-        const string key      = "AvR2LKSM8vuUQm5amHYHejcqvQ1Fb3V0";//کد امنیتی
+        const string username = "mega";//نام کاربری
+        const string password = "pmg*1348*0";//کلمه عبور
+        const string key      = "0P0T6WiB9Ak4KJpAoQLUIcnEp4OeReUH";//کد امنیتی
         static void Main(string[] args)
         {
             var token = CreateToken();
@@ -26,7 +26,7 @@ namespace SampleCallApi
 
             client.DefaultRequestHeaders.Add("Authorization", "Basic " + svcCredentials);
 
-            var webRequest = new HttpRequestMessage(HttpMethod.Get, "http://wsqceng.saipacorp.com/qceng/Nonconformity");
+            var webRequest = new HttpRequestMessage(HttpMethod.Get, "http://wsqceng.saipacorp.com/qceng/MonitoringList");
             //var webRequest = new HttpRequestMessage(HttpMethod.Get, "http://localhost:5000/Nonconformity");
 
             var response = client.Send(webRequest);
