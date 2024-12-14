@@ -11,9 +11,9 @@ namespace SampleCallApi
 {
     internal class Program
     {
-        const string username = "mega";//نام کاربری
-        const string password = "pmg*1348*0";//کلمه عبور
-        const string key      = "0P0T6WiB9Ak4KJpAoQLUIcnEp4OeReUH";//کد امنیتی
+        const string username = "behranmotor";//نام کاربری
+        const string password = "bm*1402@10@28";//کلمه عبور
+        const string key      = "HBcEgIvhneAj5UCJMmk6qC726OQCeCiQ";//کد امنیتی
         static void Main(string[] args)
         {
             var token = CreateToken();
